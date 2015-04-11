@@ -42,6 +42,8 @@
 	<div class="main-container">
 	
 	</div>
+	<div class="footer">
+	</div>
 </div>
 <script type="text/javascript"> 
 	ChangeIt();

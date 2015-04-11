@@ -93,3 +93,14 @@ a:link {
 .button-img {
   width: 80px;
 }
+
+.main-container {
+  min-height: 646px;
+  background-color: #ffffff;
+}
+
+.footer {
+  width: 100%;
+  padding-top: 20px;
+  text-align: center;
+}
