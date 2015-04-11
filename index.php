@@ -1,3 +1,7 @@
+<?php
+$page = $_GET["page"];
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,6 +47,18 @@
 		</div>
 	</div>
 	<div class="main-container">
+	
+	<?php if(($page == "") || ($page == "home")){ ?>
+		 <b>Home</b>
+	<?php }elseif($page == "stats"){ ?>
+		 <b>Stats</b>
+	<?php }elseif($page == "gangcp"){ ?>
+		 <b>Gang CP</b>
+	<?php }elseif($page == "police"){ ?>
+		 <b>Police CP</b>
+	<?php }elseif($page == "ems"){ ?>
+		 <b>EMS CP</b>
+	<?php }?>
 	
 	</div>
 	<div class="footer">
