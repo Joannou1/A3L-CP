@@ -4,7 +4,10 @@
 	<title>Life-Studios &bull; UserCP</title>
 	<link rel="shortcut icon" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="css/pace.css">
+	
 	<script src="javascript/jquery.js"></script>
+	<script src="javascript/pace.js"></script>
 	<script type="text/javascript"> 
 		var totalCount = 4;
 		function ChangeIt() 
