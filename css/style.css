@@ -1,0 +1,106 @@
+body { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.container {
+  z-index: 1;
+  width: 1234px;
+  height: 1080px;
+  background-color: #eeeeee;
+  margin: 0 auto;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.logo-container {
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.lslogo {
+width: 360px;
+}
+
+.navigation-menu {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.navigation-menu {
+  width: 100%;
+  background-color: #E0E0E0;
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+a {
+  background-color: transparent;
+}
+
+a.button:visited {
+  color: #fff;
+  text-decoration: none;
+}
+a.button {
+  color: #fff;
+  text-decoration: none;
+}
+a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.button {
+    -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%); 
+         -o-filter: grayscale(100%); 
+        -ms-filter: grayscale(100%); 
+            filter: grayscale(100%);
+    filter: gray;
+    -webkit-transition: all .8s ease;
+       -moz-transition: all .8s ease;
+         -o-transition: all .8s ease;
+        -ms-transition: all .8s ease;
+            transition: all .8s ease;
+}
+
+.button:hover {
+    -webkit-filter: grayscale(0%); 
+       -moz-filter: grayscale(0%); 
+         -o-filter: grayscale(0%); 
+        -ms-filter: grayscale(0%); 
+            filter: grayscale(0%);
+    filter: none;
+}
+.button {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.button-img {
+  width: 80px;
+}
+
+.main-container {
+  min-height: 646px;
+  background-color: #ffffff;
+}
+
+.footer {
+  width: 100%;
+  padding-top: 20px;
+  text-align: center;
+}
