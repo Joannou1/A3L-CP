@@ -81,8 +81,7 @@ a:link {
 
 .user a {
 height: 48px;
-
-
+display: block;
 }
 
 .user img {
