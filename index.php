@@ -56,7 +56,7 @@ $page = $_GET["page"];
 		 <b>Home Page</b>
 	<?php }elseif($page == "stats"){ ?>
 		 <div class="content-container">
-			Statistics
+			<b>Stats</b>
 		 </div>
 	<?php }elseif($page == "gangcp"){ ?>
 		 <b>Gang CP</b>
