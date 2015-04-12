@@ -30,19 +30,19 @@ $page = $_GET["page"];
 	<div class="navigation-menu">
 		<div class="inner-navigation">
 			<a href="index.php?page=home" class="button">
-				<img src="images/home.png" class="button-img">
+				Home
 			</a>
 			<a href="index.php?page=stats" class="button">
-				<img src="images/stats.png" class="button-img">
+				Statistics
 			</a>
 			<a href="index.php?page=gangcp" class="button">
-				<img src="images/gangcp.png" class="button-img">
+				GangCP
 			</a>
 			<a href="index.php?page=police" class="button">
-				<img src="images/police.png" class="button-img">
+				Police
 			</a>
 			<a href="index.php?page=ems" class="button">
-				<img src="images/ems.png" class="button-img">
+				EMS
 			</a>	
 		</div>
 	</div>
