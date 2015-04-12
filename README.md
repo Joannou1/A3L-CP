@@ -15,13 +15,4 @@ What needs to happen:
 For menu:
 
 Change needed? For dropdown to be able to work.
-
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li>
-    <li></li>
-  </li>
-</ul>
+Work with UL and LI for dropdown menu?
