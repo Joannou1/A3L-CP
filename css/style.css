@@ -97,9 +97,9 @@ a:link {
 }
 
 .user {
-  float: right;
+  position: fixed;
+  margin-left: 250px;
   margin-right: -18px;
-  margin-right: 50px;
 }
 
 .user img {
