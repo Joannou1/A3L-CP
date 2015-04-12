@@ -79,6 +79,12 @@ a:link {
   margin-right: -18px;
 }
 
+.user a {
+height: 48px;
+
+
+}
+
 .user img {
   position: absolute;
   margin: -15px 0px 0px -93px;
