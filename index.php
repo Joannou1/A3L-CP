@@ -46,7 +46,7 @@ $page = $_GET["page"];
 				EMS
 			</a>
 			<a href="#" class="user">
-				<img src="http://placehold.it/48x48"> Username
+				<img src="http://placehold.it/48x48"> John Smith
 			</a>
 		</div>
 	</div>
