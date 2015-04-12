@@ -45,6 +45,9 @@ $page = $_GET["page"];
 			<a href="index.php?page=ems" class="button">
 				EMS
 			</a>
+			<a href="index.php?page=ems" class="button">
+				SupportCP
+			</a>
 			<a href="#" class="user">
 				<img src="http://placehold.it/48x48"> John Smith
 			</a>
