@@ -38,6 +38,11 @@ width: 360px;
   text-align: center;
 }
 
+.navigation-menu .logout {
+padding: 0px 0px 0px 0px;
+
+}
+
 a {
   color: #337ab7;
   text-decoration: none;
@@ -61,29 +66,6 @@ a:visited {
 a:link {
   color: #fff;
   text-decoration: none;
-}
-
-.button {
-    -webkit-filter: grayscale(100%);
-       -moz-filter: grayscale(100%); 
-         -o-filter: grayscale(100%); 
-        -ms-filter: grayscale(100%); 
-            filter: grayscale(100%);
-    filter: gray;
-    -webkit-transition: all .8s ease;
-       -moz-transition: all .8s ease;
-         -o-transition: all .8s ease;
-        -ms-transition: all .8s ease;
-            transition: all .8s ease;
-}
-
-.button:hover {
-    -webkit-filter: grayscale(0%); 
-       -moz-filter: grayscale(0%); 
-         -o-filter: grayscale(0%); 
-        -ms-filter: grayscale(0%); 
-            filter: grayscale(0%);
-    filter: none;
 }
 .button {
   margin-left: 20px;
