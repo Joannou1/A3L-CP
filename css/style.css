@@ -98,13 +98,13 @@ a:link {
 
 .user {
   float: right;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-right: -18px;
+  margin-right: 50px;
 }
 
 .user img {
   position: absolute;
-  margin: -15px 0px 0px -55px;
+  margin: -15px 0px 0px -93px;
 }
 
 .button-img {
