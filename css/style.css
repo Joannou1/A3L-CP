@@ -97,7 +97,7 @@ a:link {
 }
 
 .user {
-  position: fixed;
+  position: absolute;
   margin-left: 250px;
   margin-right: -18px;
 }
