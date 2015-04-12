@@ -10,3 +10,18 @@ What needs to happen:
 - Police
 - EMS
 - Stats
+
+
+For menu:
+
+Change needed? For dropdown to be able to work.
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>
+    <li></li>
+  </li>
+</ul>
