@@ -49,7 +49,7 @@ $page = $_GET["page"];
 	<div class="main-container">
 	
 	<?php if(($page == "") || ($page == "home")){ ?>
-		 <b>Home Pageee</b>
+		 <b>Home Page</b>
 	<?php }elseif($page == "stats"){ ?>
 		 <b>Stats</b>
 	<?php }elseif($page == "gangcp"){ ?>
