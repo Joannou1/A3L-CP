@@ -53,17 +53,25 @@ $page = $_GET["page"];
 	<div class="main-container">
 	
 	<?php if(($page == "") || ($page == "home")){ ?>
-		 <b>Home Page</b>
+		<div class="content-container">
+			<b>Home Page</b>
+		</div>
 	<?php }elseif($page == "stats"){ ?>
 		 <div class="content-container">
 			<b>Stats</b>
 		 </div>
 	<?php }elseif($page == "gangcp"){ ?>
-		 <b>Gang CP</b>
+		<div class="content-container">
+			<b>Gang CP</b>
+		</div>
 	<?php }elseif($page == "police"){ ?>
-		 <b>Police CP</b>
+		<div class="content-container">
+			<b>Police CP</b>
+		</div>
 	<?php }elseif($page == "ems"){ ?>
-		 <b>EMS CP</b>
+		<div class="content-container">
+			<b>EMS CP</b>
+		</div>
 	<?php }?>
 	
 	</div>
