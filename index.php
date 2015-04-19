@@ -36,6 +36,9 @@ $page = $_GET["page"];
 			<a href="index.php?page=stats" class="button">
 				Statistics
 			</a>
+			<a href="index.php?page=support" class="button">
+				Support
+			</a>
 			<a href="index.php?page=gangcp" class="button">
 				GangCP
 			</a>
@@ -56,6 +59,10 @@ $page = $_GET["page"];
 			</div>
 		</div>
 	<?php }elseif($page == "stats"){ ?>
+		 <div class="content-container">
+			<b>Stats</b>
+		 </div>
+	<?php }elseif($page == "support"){ ?>
 		 <div class="content-container">
 			<b>Stats</b>
 		 </div>
