@@ -97,6 +97,10 @@ a:link {
 padding: 20px 20px 20px 20px;
 }
 
+.container-welcome {
+text-align: center;
+}
+
 .footer {
   width: 100%;
   padding-top: 20px;

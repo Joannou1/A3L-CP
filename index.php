@@ -54,7 +54,9 @@ $page = $_GET["page"];
 	
 	<?php if(($page == "") || ($page == "home")){ ?>
 		<div class="content-container">
-			<b>Home Page</b>
+			<div class="container-welcome">
+				<b>Home Page</b>
+			</div>
 		</div>
 	<?php }elseif($page == "stats"){ ?>
 		 <div class="content-container">
