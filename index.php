@@ -55,7 +55,7 @@ $page = $_GET["page"];
 	<?php if(($page == "") || ($page == "home")){ ?>
 		<div class="content-container">
 			<div class="container-welcome">
-				<b>Home Page</b>
+				Welcome back <b>Jarvis Westen</b>!
 			</div>
 		</div>
 	<?php }elseif($page == "stats"){ ?>
