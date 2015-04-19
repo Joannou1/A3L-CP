@@ -68,25 +68,6 @@ a:link {
   margin-right: 20px;
 }
 
-.button img {
-  position: absolute;
-  margin: -15px 0px 0px -50px;
-}
-
-.user {
-  position: absolute;
-  margin-left: 250px;
-  margin-right: -18px;
-}
-
-.user img {
-  position: absolute;
-  margin: -15px 0px 0px -93px;
-}
-
-.button-img {
-  width: 80px;
-}
 
 .main-container {
   min-height: 646px;
