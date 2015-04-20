@@ -60,63 +60,11 @@ $page = $_GET["page"];
 		</div>
 	<?php }elseif($page == "stats"){ ?>
 		 <div class="content-container">
-			<table>
-			  <thead>
-				<tr>
-					<th>Top 10 richest players</th>
-				</tr>
-				<tr>
-				  <th>Player Name</th>
-				  <th>Bank</th>
-				</tr>
-			  </thead>
-			  <tbody>
-				<tr>
-				  <td><strong>Michael Westen</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Frank Moretti</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Jarvis Westen</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Alejandro Strada</strong></td>
-				  <td>Hidden</td>
-				</tr>					
-				<tr>
-				  <td><strong>Vishaank Ghai</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>George Nellist</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Mark North</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Bucky Savage</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Daniel Lawford</strong></td>
-				  <td>Hidden</td>
-				</tr>
-				<tr>
-				  <td><strong>Steven Maccauley</strong></td>
-				  <td>Hidden</td>
-				</tr>
-			  </tbody>
-			</table>
+			<b>Statistics</b>
 		 </div>
 	<?php }elseif($page == "support"){ ?>
 		 <div class="content-container">
-			<b>Stats</b>
+			<b>Support Panel</b>
 		 </div>
 	<?php }elseif($page == "gangcp"){ ?>
 		<div class="content-container">
