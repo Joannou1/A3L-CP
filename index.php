@@ -63,56 +63,53 @@ $page = $_GET["page"];
 			<table>
 			  <thead>
 				<tr>
-				  <th>Option</th>
-				  <th>Default</th>
-				  <th>Description</th>
+					<th>Top 10 richest players</th>
+				</tr>
+				<tr>
+				  <th>Player Name</th>
+				  <th>Bank</th>
 				</tr>
 			  </thead>
 			  <tbody>
 				<tr>
-				  <td><strong>showSpeed</strong></td>
-				  <td>15</td>
-				  <td>The speed of the show/reveal</td>
+				  <td><strong>Michael Westen</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>showEasing</strong></td>
-				  <td>'linear'</td>
-				  <td>The easing of the show/reveal</td>
+				  <td><strong>Frank Moretti</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>hideSpeed</strong></td>
-				  <td>50</td>
-				  <td>The speed of the hide/conceal</td>
+				  <td><strong>Jarvis Westen</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>hideEasing</strong></td>
-				  <td>'linear'</td>
-				  <td>The easing of the hide/conceal</td>
+				  <td><strong>Alejandro Strada</strong></td>
+				  <td>Hidden</td>
 				</tr>					
 				<tr>
-				  <td><strong>width</strong></td>
-				  <td>'auto'</td>
-				  <td>The width that the data will be truncated to - <em>('auto' or px amount)</em></td>
+				  <td><strong>Vishaank Ghai</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>ellipsis</strong></td>
-				  <td>true</td>
-				  <td>Set to true to enable the ellipsis</td>
+				  <td><strong>George Nellist</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>title</strong></td>
-				  <td>false</td>
-				  <td>Set to true to show the full data on hover</td>
+				  <td><strong>Mark North</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>afterShow</strong></td>
-				  <td> $.noop</td>
-				  <td>The callback fired after the show/reveal</td>
+				  <td><strong>Bucky Savage</strong></td>
+				  <td>Hidden</td>
 				</tr>
 				<tr>
-				  <td><strong>afterHide</strong></td>
-				  <td>$.noop</td>
-				  <td>The callback fired after the hide/conceal</td>
+				  <td><strong>Daniel Lawford</strong></td>
+				  <td>Hidden</td>
+				</tr>
+				<tr>
+				  <td><strong>Steven Maccauley</strong></td>
+				  <td>Hidden</td>
 				</tr>
 			  </tbody>
 			</table>
