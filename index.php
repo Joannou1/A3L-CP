@@ -25,7 +25,7 @@ $page = $_GET["page"];
 	</script>
 </head>
 <body>
-<div class="container">
+<div class="container-page">
 	<div class="logo-container">
 		<img src="images/logo.png" class="lslogo">
 	</div>
