@@ -35,19 +35,19 @@ $page = $_GET["page"];
 				<img src="images/home.png" class="img-button">
 			</a>
 			<a href="index.php?page=stats" class="button">
-				<img src="images/home.png" class="img-button">
+				<img src="images/stats.png" class="img-button">
 			</a>
 			<a href="index.php?page=support" class="button">
-				<img src="images/home.png" class="img-button">
+				<img src="images/stats.png" class="img-button">
 			</a>
 			<a href="index.php?page=gangcp" class="button">
-				<img src="images/home.png" class="img-button">
+				<img src="images/gangcp.png" class="img-button">
 			</a>
 			<a href="index.php?page=police" class="button">
-				<img src="images/home.png" class="img-button">
+				<img src="images/police.png" class="img-button">
 			</a>
 			<a href="index.php?page=ems" class="button">
-				<img src="images/home.png" class="img-button">
+				<img src="images/ems.png" class="img-button">
 			</a>
 		</div>
 	</div>
