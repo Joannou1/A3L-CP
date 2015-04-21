@@ -32,22 +32,22 @@ $page = $_GET["page"];
 	<div class="navigation-menu">
 		<div class="inner-navigation">
 			<a href="index.php?page=home" class="button">
-				Home
+				<img src="images/home.png">
 			</a>
 			<a href="index.php?page=stats" class="button">
-				Statistics
+				<img src="images/home.png">
 			</a>
 			<a href="index.php?page=support" class="button">
-				Support
+				<img src="images/home.png">
 			</a>
 			<a href="index.php?page=gangcp" class="button">
-				GangCP
+				<img src="images/home.png">
 			</a>
 			<a href="index.php?page=police" class="button">
-				Police
+				<img src="images/home.png">
 			</a>
 			<a href="index.php?page=ems" class="button">
-				EMS
+				<img src="images/home.png">
 			</a>
 		</div>
 	</div>
